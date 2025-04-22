@@ -14,6 +14,7 @@ namespace BaoCaoDACS.Models
         [Required]
         public string Location { get; set; }
         public string Status { get; set; } = "Upcoming";
+        public ICollection<Result> Results { get; set; } = new List<Result>();
     }
 
 }

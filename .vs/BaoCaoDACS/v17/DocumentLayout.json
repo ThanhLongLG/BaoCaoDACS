@@ -3,36 +3,112 @@
   "WorkspaceRootPath": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\models\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\models\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\models\\tournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\models\\tournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\wwwroot\\css\\dangki.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\wwwroot\\css\\dangki.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\wwwroot\\lib\\bootstrap\\license||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\wwwroot\\lib\\bootstrap\\license||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\controllers\\tournamentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\controllers\\tournamentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\views\\dangnhapanddangky\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\views\\dangnhapanddangky\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\migrations\\20250422101621_capnhat1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\migrations\\20250422101621_capnhat1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\migrations\\20250422101621_capnhat1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\migrations\\20250422101621_capnhat1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\controllers\\tournamentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\controllers\\tournamentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,20 +119,44 @@
       "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\controllers\\dangnhapanddangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\models\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\models\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Migrations\\20250422101359_capnhat1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BaoCaoDACS\\Migrations\\20250422101359_capnhat1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\models\\tournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\models\\tournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Migrations\\20250422095428_capnhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BaoCaoDACS\\Migrations\\20250422095428_capnhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Migrations\\20250422092803_khoitao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BaoCaoDACS\\Migrations\\20250422092803_khoitao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\wwwroot\\js\\layout.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\wwwroot\\js\\layout.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\wwwroot\\css\\layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -67,28 +167,12 @@
       "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\wwwroot\\css\\reset.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\views\\dangnhapanddangky\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\views\\dangnhapanddangky\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\baocaodacs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\baocaodacs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|d:\\hoc\\bao_cao_dacs\\baocaodacs\\baocaodacs\\migrations\\20250422111236_sua1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3CD243-E8A5-4016-B757-743F9E0722F2}|BaoCaoDACS\\BaoCaoDACS.csproj|solutionrelative:baocaodacs\\migrations\\20250422111236_sua1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -101,177 +185,133 @@
           "SelectedChildIndex": 7,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "BaoCaoDACS\\Models\\ErrorViewModel.cs",
-              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "BaoCaoDACS\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T09:08:07.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "BaoCaoDACS\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "BaoCaoDACS\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T08:52:09.993Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TournamentsController.cs",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Controllers\\TournamentsController.cs",
-              "RelativeDocumentMoniker": "BaoCaoDACS\\Controllers\\TournamentsController.cs",
-              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Controllers\\TournamentsController.cs",
-              "RelativeToolTip": "BaoCaoDACS\\Controllers\\TournamentsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T08:46:05.888Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Models\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "BaoCaoDACS\\Models\\AppDbContext.cs",
-              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Models\\AppDbContext.cs",
-              "RelativeToolTip": "BaoCaoDACS\\Models\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T08:47:32.69Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Result.cs",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Models\\Result.cs",
-              "RelativeDocumentMoniker": "BaoCaoDACS\\Models\\Result.cs",
-              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Models\\Result.cs",
-              "RelativeToolTip": "BaoCaoDACS\\Models\\Result.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T08:51:16.563Z",
-              "EditorCaption": ""
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "BaoCaoDACS\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "BaoCaoDACS\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-22T11:17:57.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LICENSE",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\wwwroot\\lib\\bootstrap\\LICENSE",
+              "RelativeDocumentMoniker": "BaoCaoDACS\\wwwroot\\lib\\bootstrap\\LICENSE",
+              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\wwwroot\\lib\\bootstrap\\LICENSE",
+              "RelativeToolTip": "BaoCaoDACS\\wwwroot\\lib\\bootstrap\\LICENSE",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-22T11:15:14.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "BaoCaoDACS\\wwwroot\\favicon.ico",
+              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "RelativeToolTip": "BaoCaoDACS\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-04-22T11:15:08.637Z",
+              "EditorCaption": " - Icon [32x32, 32 bit, BMP]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Models\\User.cs",
-              "RelativeDocumentMoniker": "BaoCaoDACS\\Models\\User.cs",
-              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Models\\User.cs",
-              "RelativeToolTip": "BaoCaoDACS\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T08:49:13.332Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Tournament.cs",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Models\\Tournament.cs",
-              "RelativeDocumentMoniker": "BaoCaoDACS\\Models\\Tournament.cs",
-              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Models\\Tournament.cs",
-              "RelativeToolTip": "BaoCaoDACS\\Models\\Tournament.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T08:50:07.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Participant.cs",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Models\\Participant.cs",
-              "RelativeDocumentMoniker": "BaoCaoDACS\\Models\\Participant.cs",
-              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Models\\Participant.cs",
-              "RelativeToolTip": "BaoCaoDACS\\Models\\Participant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T08:50:53.751Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DangNhapandDangky.cs",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Controllers\\DangNhapandDangky.cs",
-              "RelativeDocumentMoniker": "BaoCaoDACS\\Controllers\\DangNhapandDangky.cs",
-              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Controllers\\DangNhapandDangky.cs",
-              "RelativeToolTip": "BaoCaoDACS\\Controllers\\DangNhapandDangky.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T08:58:39.227Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "BaoCaoDACS\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "BaoCaoDACS\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAuwFsAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwDMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-22T08:59:26.982Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T08:59:26.982Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "BaoCaoDACS\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "BaoCaoDACS\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAuwHYBAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-22T08:59:19.063Z",
+              "WhenOpened": "2025-04-22T08:59:19.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.css",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "BaoCaoDACS\\wwwroot\\css\\app.css",
+              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "BaoCaoDACS\\wwwroot\\css\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-22T08:44:08.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "BaoCaoDACS\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "BaoCaoDACS\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T10:23:29.355Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20250422111236_sua1.cs",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Migrations\\20250422111236_sua1.cs",
+              "RelativeDocumentMoniker": "BaoCaoDACS\\Migrations\\20250422111236_sua1.cs",
+              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Migrations\\20250422111236_sua1.cs",
+              "RelativeToolTip": "BaoCaoDACS\\Migrations\\20250422111236_sua1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T11:12:36.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DangKi.css",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\wwwroot\\css\\DangKi.css",
+              "RelativeDocumentMoniker": "BaoCaoDACS\\wwwroot\\css\\DangKi.css",
+              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\wwwroot\\css\\DangKi.css",
+              "RelativeToolTip": "BaoCaoDACS\\wwwroot\\css\\DangKi.css",
+              "ViewState": "AgIAADEAAAAAAAAAAAAawEkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-22T09:24:10.139Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Layout.js",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\wwwroot\\js\\Layout.js",
-              "RelativeDocumentMoniker": "BaoCaoDACS\\wwwroot\\js\\Layout.js",
-              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\wwwroot\\js\\Layout.js",
-              "RelativeToolTip": "BaoCaoDACS\\wwwroot\\js\\Layout.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPUBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-04-22T09:03:54.038Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "BaoCaoDACS\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Controllers\\UserController.cs",
-              "RelativeToolTip": "BaoCaoDACS\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BaoCaoDACS\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "BaoCaoDACS\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T08:46:10.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T08:47:32.69Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 6,
               "Title": "site.js",
               "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "BaoCaoDACS\\wwwroot\\js\\site.js",
@@ -279,47 +319,31 @@
               "RelativeToolTip": "BaoCaoDACS\\wwwroot\\js\\site.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-04-22T09:03:46.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T09:03:46.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "BaoCaoDACS\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "BaoCaoDACS\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T09:29:06.551Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "Layout.css",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\wwwroot\\css\\Layout.css",
-              "RelativeDocumentMoniker": "BaoCaoDACS\\wwwroot\\css\\Layout.css",
-              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\wwwroot\\css\\Layout.css",
-              "RelativeToolTip": "BaoCaoDACS\\wwwroot\\css\\Layout.css",
-              "ViewState": "AgIAAPwDAAAAAAAAAAAAAAUEAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-22T09:02:03.386Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "BaoCaoDACS\\Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "BaoCaoDACS\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-22T08:59:17.717Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "BaoCaoDACS\\Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "BaoCaoDACS\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-22T08:59:21.379Z",
-              "EditorCaption": ""
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BaoCaoDACS\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BaoCaoDACS\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T09:08:07.421Z"
             },
             {
               "$type": "Document",
@@ -329,14 +353,337 @@
               "RelativeDocumentMoniker": "BaoCaoDACS\\Views\\DangNhapandDangky\\Index.cshtml",
               "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Views\\DangNhapandDangky\\Index.cshtml",
               "RelativeToolTip": "BaoCaoDACS\\Views\\DangNhapandDangky\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-22T08:54:38.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T08:54:38.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\appsettings.json",
+              "RelativeDocumentMoniker": "BaoCaoDACS\\appsettings.json",
+              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\appsettings.json",
+              "RelativeToolTip": "BaoCaoDACS\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-22T08:46:55.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BaoCaoDACS\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BaoCaoDACS\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T08:59:17.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "BaoCaoDACS\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "BaoCaoDACS\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAAHQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T10:22:58.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Program.cs",
+              "RelativeDocumentMoniker": "BaoCaoDACS\\Program.cs",
+              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Program.cs",
+              "RelativeToolTip": "BaoCaoDACS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T09:21:22.629Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "BaoCaoDACS\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "BaoCaoDACS\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T10:22:59.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "BaoCaoDACS\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "BaoCaoDACS\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAwFQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T10:42:29.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BaoCaoDACS\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "BaoCaoDACS\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T10:22:54.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250422101621_capnhat1.Designer.cs",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Migrations\\20250422101621_capnhat1.Designer.cs",
+              "RelativeDocumentMoniker": "BaoCaoDACS\\Migrations\\20250422101621_capnhat1.Designer.cs",
+              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Migrations\\20250422101621_capnhat1.Designer.cs",
+              "RelativeToolTip": "BaoCaoDACS\\Migrations\\20250422101621_capnhat1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T10:48:16.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BaoCaoDACS\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "BaoCaoDACS\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T10:48:17.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250422101621_capnhat1.cs",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Migrations\\20250422101621_capnhat1.cs",
+              "RelativeDocumentMoniker": "BaoCaoDACS\\Migrations\\20250422101621_capnhat1.cs",
+              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Migrations\\20250422101621_capnhat1.cs",
+              "RelativeToolTip": "BaoCaoDACS\\Migrations\\20250422101621_capnhat1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T10:16:21.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BaoCaoDACS\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "BaoCaoDACS\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T10:22:57.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "BaoCaoDACS\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "BaoCaoDACS\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T10:22:54.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "BaoCaoDACS\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "BaoCaoDACS\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-22T10:22:44.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TournamentsController.cs",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Controllers\\TournamentsController.cs",
+              "RelativeDocumentMoniker": "BaoCaoDACS\\Controllers\\TournamentsController.cs",
+              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Controllers\\TournamentsController.cs",
+              "RelativeToolTip": "BaoCaoDACS\\Controllers\\TournamentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T08:46:05.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BaoCaoDACS\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BaoCaoDACS\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T08:52:09.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DangNhapandDangky.cs",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Controllers\\DangNhapandDangky.cs",
+              "RelativeDocumentMoniker": "BaoCaoDACS\\Controllers\\DangNhapandDangky.cs",
+              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Controllers\\DangNhapandDangky.cs",
+              "RelativeToolTip": "BaoCaoDACS\\Controllers\\DangNhapandDangky.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T08:58:39.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Participant.cs",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Models\\Participant.cs",
+              "RelativeDocumentMoniker": "BaoCaoDACS\\Models\\Participant.cs",
+              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Models\\Participant.cs",
+              "RelativeToolTip": "BaoCaoDACS\\Models\\Participant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T08:50:53.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20250422101359_capnhat1.cs",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Migrations\\20250422101359_capnhat1.cs",
+              "RelativeDocumentMoniker": "BaoCaoDACS\\Migrations\\20250422101359_capnhat1.cs",
+              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Migrations\\20250422101359_capnhat1.cs",
+              "RelativeToolTip": "BaoCaoDACS\\Migrations\\20250422101359_capnhat1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T10:14:00.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Result.cs",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Models\\Result.cs",
+              "RelativeDocumentMoniker": "BaoCaoDACS\\Models\\Result.cs",
+              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Models\\Result.cs",
+              "RelativeToolTip": "BaoCaoDACS\\Models\\Result.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T08:51:16.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Tournament.cs",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Models\\Tournament.cs",
+              "RelativeDocumentMoniker": "BaoCaoDACS\\Models\\Tournament.cs",
+              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Models\\Tournament.cs",
+              "RelativeToolTip": "BaoCaoDACS\\Models\\Tournament.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T08:50:07.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20250422095428_capnhat.cs",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Migrations\\20250422095428_capnhat.cs",
+              "RelativeDocumentMoniker": "BaoCaoDACS\\Migrations\\20250422095428_capnhat.cs",
+              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Migrations\\20250422095428_capnhat.cs",
+              "RelativeToolTip": "BaoCaoDACS\\Migrations\\20250422095428_capnhat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T09:54:28.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20250422092803_khoitao.cs",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Migrations\\20250422092803_khoitao.cs",
+              "RelativeDocumentMoniker": "BaoCaoDACS\\Migrations\\20250422092803_khoitao.cs",
+              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Migrations\\20250422092803_khoitao.cs",
+              "RelativeToolTip": "BaoCaoDACS\\Migrations\\20250422092803_khoitao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T09:28:03.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "BaoCaoDACS\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "BaoCaoDACS\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T09:23:05.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "BaoCaoDACS\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "BaoCaoDACS\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T09:23:03.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BaoCaoDACS\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BaoCaoDACS\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T08:59:21.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Layout.js",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\wwwroot\\js\\Layout.js",
+              "RelativeDocumentMoniker": "BaoCaoDACS\\wwwroot\\js\\Layout.js",
+              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\wwwroot\\js\\Layout.js",
+              "RelativeToolTip": "BaoCaoDACS\\wwwroot\\js\\Layout.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-22T09:03:54.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Layout.css",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\wwwroot\\css\\Layout.css",
+              "RelativeDocumentMoniker": "BaoCaoDACS\\wwwroot\\css\\Layout.css",
+              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\wwwroot\\css\\Layout.css",
+              "RelativeToolTip": "BaoCaoDACS\\wwwroot\\css\\Layout.css",
+              "ViewState": "AgIAAPwDAAAAAAAAAAAAAAUEAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-22T09:02:03.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
               "Title": "reset.css",
               "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\wwwroot\\css\\reset.css",
               "RelativeDocumentMoniker": "BaoCaoDACS\\wwwroot\\css\\reset.css",
@@ -344,51 +691,19 @@
               "RelativeToolTip": "BaoCaoDACS\\wwwroot\\css\\reset.css",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-22T08:44:09.137Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "WhenOpened": "2025-04-22T08:44:09.137Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\appsettings.json",
-              "RelativeDocumentMoniker": "BaoCaoDACS\\appsettings.json",
-              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\appsettings.json",
-              "RelativeToolTip": "BaoCaoDACS\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-22T08:46:55.304Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "BaoCaoDACS",
+              "DocumentIndex": 41,
+              "Title": "BaoCaoDACS.csproj",
               "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\BaoCaoDACS.csproj",
               "RelativeDocumentMoniker": "BaoCaoDACS\\BaoCaoDACS.csproj",
               "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\BaoCaoDACS.csproj",
               "RelativeToolTip": "BaoCaoDACS\\BaoCaoDACS.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-22T08:48:09.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "app.css",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\wwwroot\\css\\app.css",
-              "RelativeDocumentMoniker": "BaoCaoDACS\\wwwroot\\css\\app.css",
-              "ToolTip": "D:\\HOC\\BAO_CAO_DACS\\BaoCaoDACS\\BaoCaoDACS\\wwwroot\\css\\app.css",
-              "RelativeToolTip": "BaoCaoDACS\\wwwroot\\css\\app.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-22T08:44:08.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T08:48:09.795Z"
             }
           ]
         }
