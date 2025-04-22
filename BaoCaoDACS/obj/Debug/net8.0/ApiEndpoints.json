@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "TournamentsController",
+    "Method": "GetTournaments",
+    "RelativePath": "api/Tournaments",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
